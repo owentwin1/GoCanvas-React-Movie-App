@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GoCanvas-React-Movie-App/static/css/main.cd4e0651.css",
+    "main.js": "/GoCanvas-React-Movie-App/static/js/main.f6a7240a.js",
+    "static/media/boxicons.svg": "/GoCanvas-React-Movie-App/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/GoCanvas-React-Movie-App/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/GoCanvas-React-Movie-App/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/GoCanvas-React-Movie-App/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/GoCanvas-React-Movie-App/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/GoCanvas-React-Movie-App/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/GoCanvas-React-Movie-App/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/GoCanvas-React-Movie-App/index.html",
+    "main.cd4e0651.css.map": "/GoCanvas-React-Movie-App/static/css/main.cd4e0651.css.map",
+    "main.f6a7240a.js.map": "/GoCanvas-React-Movie-App/static/js/main.f6a7240a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4e0651.css",
+    "static/js/main.f6a7240a.js"
+  ]
+}
