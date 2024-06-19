@@ -1,8 +1,8 @@
 ## react-movie-app
 
-    This a simple React movie app that provides information about a movie/series using The Movie DB API. The aim is to demonstrate my understanding of React's fundamentals and also put on display my design skills as underlined in the coding assessment file.
+    This a simple React movie app that provides information about a movie/series using The Movie DB API. The aim is to demonstrate my understanding of React's fundamentals and also put on display my design skills as underlined in the coding assessment file. The reason why I chose The Movie DB api form the free Github APIs is because it is very well documented and provides a lot of features that can utilize should I want to enhance my project. According to my research, the API is very reliable and very faster allowing for a good user experience.
 
-    Had I had more time, I would have liked to implement the React Skeleton for a more advanced UI design just incase the api is slow when fetching data. The app overall can be improved in a variety of ways overtime. For example, I could implement login/logout functionality etc.
+    Had I had more time, I would have liked to implement the React Skeleton for a more advanced UI design just incase the api is slow when fetching data. The app overall can be improved in a variety of ways overtime. For example, I could implement login/logout functionality etc. Caching would have been something I would also have implemented to allow for a personalized experience when a user logs in. another section I could not build due to time constraints was a "Coming Soon" section where users can view the release date of a movie/series, cast information and the movie's or series's trailer. With more time I am certain I would have come up with a lot more ideas to improve the app whilst also taking advantage of the API's full features which i would have needed more time to explore.
 
     Please note, I was hard pressed for time due to other commitments hence I was unable top implement the Bonus points tasks. However, hope the code demonstrates my understanding of React fundamentals.
 
