@@ -6,6 +6,12 @@
 
     Please note, I was hard pressed for time due to other commitments hence I was unable top implement the Bonus points tasks. However, hope the code demonstrates my understanding of React fundamentals.
 
+## PROJECT NAVIGATION
+
+    Click on a movie card to go to the movie/series page where you can view the cast and plot information and then scroll down to view the trailer.
+
+    Click on the Navbar links to navigate to the movies section or the series section where you have the option search for either a movie or series depending on which tab you are on. Please not, when on the Movies section you can only search for movies and the same applies for the TV series section.
+
 ## Resources
 
     Google font: https://fonts.google.com/
@@ -15,6 +21,11 @@
     Images: https://unsplash.com/
 
     API: https://www.themoviedb.org/
+
+## PROJECT URLs
+
+    Github: https://github.com/owentwin1/GoCanvas-React-Movie-App/tree/main
+    URL: https://owentwin1.github.io/GoCanvas-React-Movie-App/
 
 ## PROJECT SETUP
 
@@ -34,7 +45,7 @@
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` or `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -42,12 +53,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `npm test` or `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `npm run build` or `yarn run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -57,7 +68,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `npm run eject` or `yarn run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -93,6 +104,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### `npm run build` or `yarn run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
